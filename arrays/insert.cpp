@@ -13,7 +13,6 @@ int main() {
             count++;
         }
     }
-
     if (count == n) {
         cout << "There is no more space in the array." << endl;
         return 0; 
