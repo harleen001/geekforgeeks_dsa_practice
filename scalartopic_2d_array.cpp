@@ -13,3 +13,4 @@ int main()
     }
 }
 //where r row is 2 and c column is 3
+//By default known as Row Major Ordering
