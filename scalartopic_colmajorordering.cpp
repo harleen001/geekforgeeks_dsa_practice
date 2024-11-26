@@ -12,5 +12,4 @@ int main()
         cout<<endl;
     }
 }
-//where r row is 2 and c column is 3
-//By default known as Row Major Ordering
+// Now this i did myself in less than a second
