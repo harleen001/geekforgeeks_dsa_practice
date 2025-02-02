@@ -24,3 +24,17 @@ n1.next=head;//referenced
 head=n1;//new head given
 return head;
 }
+
+//while inserting at last
+
+Node addLast(value)
+{
+    Node n1=new Node(value);
+    Node temp=head;
+    while(temp.next !=nullptr)
+    {
+        temp=temp.next;
+    }
+    temp.next=n1;
+    return head;
+}
