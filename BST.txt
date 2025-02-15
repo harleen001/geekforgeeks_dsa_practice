@@ -1,0 +1,11 @@
+for i, its left = 2*i and right = 2*i +1 
+tree is a non linear data structure
+
+class Node{
+    
+    int data;
+    Node left;
+    Node right;
+}
+int val =10;
+Node n1=new Node(val);
